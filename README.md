@@ -1,3 +1,3 @@
-# Python-Web-Scrapping-Series
+# Python Web Scraping Series
 
-![](https://github.com/najirh/Python-Web-Scrapping-Series/blob/main/YT%20-12.png)
+[![Watch Here](https://github.com/najirh/Python-Web-Scrapping-Series/blob/main/YT%20-12.png)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
